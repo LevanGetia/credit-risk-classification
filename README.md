@@ -52,7 +52,7 @@ To set up a local development version, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/credit-risk-classification.git
+git clone https://github.com/LevanGetia/credit-risk-classification.git
 
 # Navigate to the project directory
 cd credit-risk-classification
@@ -70,8 +70,3 @@ cd Credit_Risk
 jupyter notebook credit_risk_classification.ipynb
 ```
 
-Follow the instructions in the notebook for a detailed step-by-step guide.
-
-## Contributing
-
-Contributions to this project are welcome. Please adhere to this project's `code of conduct` during your participation.
